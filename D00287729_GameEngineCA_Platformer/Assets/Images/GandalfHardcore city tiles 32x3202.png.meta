@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 57f4a6795c59bf34698b8e62f8e629fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7165607635016373229
+    second: GandalfHardcore city tiles 32x3202_0
+  - first:
+      213: -5719460495591954745
+    second: GandalfHardcore city tiles 32x3202_1
+  - first:
+      213: -6716386444081497544
+    second: GandalfHardcore city tiles 32x3202_2
+  - first:
+      213: -7082213323772959589
+    second: GandalfHardcore city tiles 32x3202_3
+  - first:
+      213: 7889419457608319934
+    second: GandalfHardcore city tiles 32x3202_4
+  - first:
+      213: -4991354446115759313
+    second: GandalfHardcore city tiles 32x3202_5
+  - first:
+      213: -580823034297980003
+    second: GandalfHardcore city tiles 32x3202_6
+  - first:
+      213: 1625339333374781459
+    second: GandalfHardcore city tiles 32x3202_7
+  - first:
+      213: -2702053742316252185
+    second: GandalfHardcore city tiles 32x3202_8
+  - first:
+      213: 2126623339378995707
+    second: GandalfHardcore city tiles 32x3202_9
+  - first:
+      213: 3681064959489821227
+    second: GandalfHardcore city tiles 32x3202_10
+  - first:
+      213: 6924870568086461147
+    second: GandalfHardcore city tiles 32x3202_11
+  - first:
+      213: 2299601467673727524
+    second: GandalfHardcore city tiles 32x3202_12
+  - first:
+      213: 4299213313182745518
+    second: GandalfHardcore city tiles 32x3202_13
+  - first:
+      213: 7094908603655726342
+    second: GandalfHardcore city tiles 32x3202_14
+  - first:
+      213: 3371724518479488411
+    second: GandalfHardcore city tiles 32x3202_15
+  - first:
+      213: -5329432795376468394
+    second: GandalfHardcore city tiles 32x3202_16
+  - first:
+      213: -7645146763025505988
+    second: GandalfHardcore city tiles 32x3202_17
+  - first:
+      213: -1941398843809211372
+    second: GandalfHardcore city tiles 32x3202_18
+  - first:
+      213: 1538414278592734290
+    second: GandalfHardcore city tiles 32x3202_19
+  - first:
+      213: -5729341473864694807
+    second: GandalfHardcore city tiles 32x3202_20
+  - first:
+      213: -6319817122538133835
+    second: GandalfHardcore city tiles 32x3202_21
+  - first:
+      213: 4314393865879459754
+    second: GandalfHardcore city tiles 32x3202_22
+  - first:
+      213: -2051095098675030710
+    second: GandalfHardcore city tiles 32x3202_23
+  - first:
+      213: -7831007544150000041
+    second: GandalfHardcore city tiles 32x3202_24
+  - first:
+      213: -8099602020679487304
+    second: GandalfHardcore city tiles 32x3202_25
+  - first:
+      213: 6247853118941526134
+    second: GandalfHardcore city tiles 32x3202_26
+  - first:
+      213: -4028762690083723531
+    second: GandalfHardcore city tiles 32x3202_27
+  - first:
+      213: 4681776181728010764
+    second: GandalfHardcore city tiles 32x3202_28
+  - first:
+      213: 1629061121543213171
+    second: GandalfHardcore city tiles 32x3202_29
+  - first:
+      213: 6527821988869195954
+    second: GandalfHardcore city tiles 32x3202_30
+  - first:
+      213: -6902874874773186099
+    second: GandalfHardcore city tiles 32x3202_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de35af4dd2a517360800000000000000
+      internalID: 7165607635016373229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ac557bf460a0b0800000000000000
+      internalID: -5719460495591954745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af5423d1a9ac2a0800000000000000
+      internalID: -6716386444081497544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9469f4518ce6bd90800000000000000
+      internalID: -7082213323772959589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 118
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb38cce5239dc7d60800000000000000
+      internalID: 7889419457608319934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b143b93952bbab0800000000000000
+      internalID: -4991354446115759313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bed43178080f7f0800000000000000
+      internalID: -580823034297980003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182645238d5e8610800000000000000
+      internalID: 1625339333374781459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3993dff60608ad0800000000000000
+      internalID: -2702053742316252185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17dbae8a8438d10800000000000000
+      internalID: 2126623339378995707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 119
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4789d315c51330800000000000000
+      internalID: 3681064959489821227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad95697151a1060800000000000000
+      internalID: 6924870568086461147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d8add953d9ef10800000000000000
+      internalID: 2299601467673727524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea343e9eabfd9ab30800000000000000
+      internalID: 4299213313182745518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60523cad8cd267260800000000000000
+      internalID: 7094908603655726342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e17cd595cace20800000000000000
+      internalID: 3371724518479488411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb441fb1d0a06b0800000000000000
+      internalID: -5329432795376468394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c312326568bf6e590800000000000000
+      internalID: -7645146763025505988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd56b9904ce05e0800000000000000
+      internalID: -1941398843809211372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a8e0b2ab895510800000000000000
+      internalID: 1538414278592734290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c16de84a4d70b0800000000000000
+      internalID: -5729341473864694807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 47
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6eea59fcf7b48a0800000000000000
+      internalID: -6319817122538133835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa79ed4cc5ecfdb30800000000000000
+      internalID: 4314393865879459754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451eeaffdb0983e0800000000000000
+      internalID: -2051095098675030710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef889012ca25390800000000000000
+      internalID: -7831007544150000041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0fc5f20ee689f80800000000000000
+      internalID: -8099602020679487304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67873532f45d4b650800000000000000
+      internalID: 6247853118941526134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6663dbda5f618c0800000000000000
+      internalID: -4028762690083723531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0268c5d1a209f040800000000000000
+      internalID: 4681776181728010764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709bfa75769b9610800000000000000
+      internalID: 1629061121543213171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b84883538b779a50800000000000000
+      internalID: 6527821988869195954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore city tiles 32x3202_31
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9dc28dfdf0430a0800000000000000
+      internalID: -6902874874773186099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2318ddf8e58fc3945918045184807789
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GandalfHardcore city tiles 32x3202_0: 7165607635016373229
+      GandalfHardcore city tiles 32x3202_1: -5719460495591954745
+      GandalfHardcore city tiles 32x3202_10: 3681064959489821227
+      GandalfHardcore city tiles 32x3202_11: 6924870568086461147
+      GandalfHardcore city tiles 32x3202_12: 2299601467673727524
+      GandalfHardcore city tiles 32x3202_13: 4299213313182745518
+      GandalfHardcore city tiles 32x3202_14: 7094908603655726342
+      GandalfHardcore city tiles 32x3202_15: 3371724518479488411
+      GandalfHardcore city tiles 32x3202_16: -5329432795376468394
+      GandalfHardcore city tiles 32x3202_17: -7645146763025505988
+      GandalfHardcore city tiles 32x3202_18: -1941398843809211372
+      GandalfHardcore city tiles 32x3202_19: 1538414278592734290
+      GandalfHardcore city tiles 32x3202_2: -6716386444081497544
+      GandalfHardcore city tiles 32x3202_20: -5729341473864694807
+      GandalfHardcore city tiles 32x3202_21: -6319817122538133835
+      GandalfHardcore city tiles 32x3202_22: 4314393865879459754
+      GandalfHardcore city tiles 32x3202_23: -2051095098675030710
+      GandalfHardcore city tiles 32x3202_24: -7831007544150000041
+      GandalfHardcore city tiles 32x3202_25: -8099602020679487304
+      GandalfHardcore city tiles 32x3202_26: 6247853118941526134
+      GandalfHardcore city tiles 32x3202_27: -4028762690083723531
+      GandalfHardcore city tiles 32x3202_28: 4681776181728010764
+      GandalfHardcore city tiles 32x3202_29: 1629061121543213171
+      GandalfHardcore city tiles 32x3202_3: -7082213323772959589
+      GandalfHardcore city tiles 32x3202_30: 6527821988869195954
+      GandalfHardcore city tiles 32x3202_31: -6902874874773186099
+      GandalfHardcore city tiles 32x3202_4: 7889419457608319934
+      GandalfHardcore city tiles 32x3202_5: -4991354446115759313
+      GandalfHardcore city tiles 32x3202_6: -580823034297980003
+      GandalfHardcore city tiles 32x3202_7: 1625339333374781459
+      GandalfHardcore city tiles 32x3202_8: -2702053742316252185
+      GandalfHardcore city tiles 32x3202_9: 2126623339378995707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
