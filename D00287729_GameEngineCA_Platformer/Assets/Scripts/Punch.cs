@@ -14,7 +14,7 @@ public class Punch : MonoBehaviour
 
     void Update(){
         if (elapsedTime > punchTime){
-            Destroy(this.gameObject);
+            Destroy(this.gameObject); //destroys the empty puch object after a few seconds if it didnt colide with anything
         }
 
         elapsedTime += Time.deltaTime;
