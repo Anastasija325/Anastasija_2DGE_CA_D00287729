@@ -48,7 +48,7 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         audio = GetComponent<AudioSource>();
-        lastCheckpoint = rb.transform.position;
+        lastCheckpoint = rb.transform.position; //records player start position
         
     }
 
@@ -74,6 +74,7 @@ public class Player : MonoBehaviour
             jumpCount++;
         }
 
+        //checking for player invincibility
         if (isInvin)
         {
             invincibilityCount += Time.deltaTime;
@@ -88,15 +89,15 @@ public class Player : MonoBehaviour
         //Launching Projectiles
         if (InputSystem.actions["Attack"].IsPressed() && atkAvailable == true && !isMecha)
         {
-            atkAvailable = false;
-            elapsedTime = 0;
-            animator.SetBool("isShoot", true);
-            InputSystem.actions["Attack"].Reset();
-            Fire();
+            atkAvailable = false; //ensures player can't spam shoot
+            elapsedTime = 0; //sets timer to 0 for the animation to play for 1 second
+            animator.SetBool("isShoot", true); //plays shoot animation
+            InputSystem.actions["Attack"].Reset(); //cancels any current attack so you can only so one per frame
+            Fire(); //fire method
         
         }
 
-        //Mecha Punch
+        //Mecha Punch (Same as projectile attack, but activates the punchFire() method)
         if (InputSystem.actions["Attack"].IsPressed() && atkAvailable == true && isMecha)
         {
             atkAvailable = false;
@@ -110,6 +111,7 @@ public class Player : MonoBehaviour
         
         }
 
+         //Both for ensuring the animator plays full animation before allowing player to attack again
         if (elapsedTime > shootTime){
                 animator.SetBool("isShoot", false);
                 atkAvailable = true;
@@ -120,10 +122,10 @@ public class Player : MonoBehaviour
             isPunch = false;
             atkAvailable = true;
         }
-        
+        //timer
         elapsedTime += Time.deltaTime;
 
-
+        //victory condition checker
         if (aliensRemaining == 0){
             move = new Vector2(0,0);
             ui.SetVictory();
@@ -143,7 +145,7 @@ public class Player : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision){
         if (collision.gameObject.tag == "Ground"){
-            jumpCount = 0;
+            jumpCount = 0; //checks whether player can jump again
         }
         
         if (collision.gameObject.GetComponent<Enemy>() != null && !isInvin && !isMecha){
@@ -156,33 +158,36 @@ public class Player : MonoBehaviour
 
         if(collision.gameObject.tag == "Respawn"){
             PlayerHit();
-            rb.position = lastCheckpoint;
+            rb.position = lastCheckpoint; //resets player position
         }
 
     }
 
+    //taking damage
     private void PlayerHit()
     {
-        isInvin = true;
-        this.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 0.5f);
-        lives--;
-        ui.SetLives(lives);
+        isInvin = true; //sets invincibility
+        this.GetComponent<SpriteRenderer>().color = new Color(1, 1, 1, 0.5f); //makes player transparent
+        lives--;//lose life
+        ui.SetLives(lives); //updates ui
         if (lives == 0)
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("SampleScene"); //death reloads the scene
         }
         
     }
 
+    //player shoot stun gun
     private void Fire(){
         GameObject sb = Instantiate(projectile, rb.position, Quaternion.identity);  
         Projectile pro = sb.GetComponent<Projectile>();
         pro.Launch(new Vector2(direction, 0), 500);
     }
 
+    //player punch as mecha
     private void punchFire(){
         GameObject sb;
-        if(direction > 0){
+        if(direction > 0){ //spawns a stationary invisible projectile in the direction player is facing
             sb = Instantiate(punch, new Vector2((rb.position.x + 2), rb.position.y), Quaternion.identity);
         }
         else{
@@ -191,15 +196,15 @@ public class Player : MonoBehaviour
         Punch pun = sb.GetComponent<Punch>();
         pun.punchLaunch(new Vector2(direction, 0));
     }
-
+    //pick up mecha power up
     public void toMechaTransform(){
         isMecha = true;
         audio.PlayOneShot(MechaTransform);
         animator.SetBool("isMecha", true);
-        this.rb.gravityScale = 2.0f;
+        this.rb.gravityScale = 2.0f; //change player gravity
     }
 
-    public void countKilled(){
+    public void countKilled(){ //counts how many enemies have been killed by the mecha
         aliensRemaining--;
         ui.SetScore(aliensRemaining);
     }
